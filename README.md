@@ -3,6 +3,7 @@ scTransformer, a Transformer-based model, can annotate cell types.
 
 # Requirement
 ```
+R 4.2.2
 Python 3.9.12
 PyTorch >= 1.5.0
 numpy
